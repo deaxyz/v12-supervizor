@@ -4,4 +4,4 @@ v13 Süpervizör 10 Starda Yayında
 
 - Özellikleri 
 
-- **Kayıt,Moderasyon Komutları vb.**
+- **Kayıt,Moderasyon Stat, Yetki Sistemi.**
